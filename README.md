@@ -64,19 +64,19 @@ I am a passionate **Full Stack Developer** dedicated to building robust backends
 
 <div align="center">
   
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ZiadElsaidd&theme=onedark&column=7&v=1" alt="Ziad-Dev Trophies" />
+  <!-- GitHub Contribution Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiadElsaidd&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="Ziad's Activity Graph" width="100%" />
   </a>
 
   <br/><br/>
 
   <!-- Stats Grid -->
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=ZiadElsaidd&show_icons=true&theme=tokyonight&hide_border=true" alt="Ziad's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=ZiadElsaidd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ziad's GitHub Stats" />
         </a>
       </td>
       <td>
@@ -90,7 +90,7 @@ I am a passionate **Full Stack Developer** dedicated to building robust backends
   <br/>
 
   <!-- GitHub Streak -->
-  <a href="https://github.com/cyberbunny/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadElsaidd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 
