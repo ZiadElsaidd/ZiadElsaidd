@@ -19,7 +19,7 @@
 
 <!-- ANIMATED MEDIA -->
 <p align="center">
-  <img src="Folders/Assets/output.gif" alt="Featured Project Showcase" width="100%" style="border-radius: 8px;">
+  <img src="https://super-psychology-86d.notion.site/image/https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F055%2F086%2F844%2Foriginal%2Fgun-sirichote-night-workflow3-animated3-edit.gif%3F1666093203?table=block&id=363b10f9-cc60-8078-873b-d9416bce43e2&spaceId=a3eae1b7-5285-4bdc-afb9-d8163f08482e&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl" alt="Featured Project Showcase" width="100%" style="border-radius: 8px;">
 </p>
 
 ---
