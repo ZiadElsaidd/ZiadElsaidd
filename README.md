@@ -66,7 +66,7 @@ I am a passionate **Full Stack Developer** dedicated to building robust backends
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ziad-Dev&theme=onedark&column=7&margin-w=15&no-bg=true" alt="Ziad-Dev Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ZiadElsaidd&theme=onedark&column=7&margin-w=15&no-bg=true" alt="Ziad-Dev Trophies" />
   </a>
 
   <br/><br/>
@@ -76,12 +76,12 @@ I am a passionate **Full Stack Developer** dedicated to building robust backends
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.scalable-dev.space/api?username=Ziad-Dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ziad's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.scalable-dev.space/api?username=ZiadElsaidd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ziad's GitHub Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.scalable-dev.space/api/top-langs/?username=Ziad-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.scalable-dev.space/api/top-langs/?username=ZiadElsaidd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -91,7 +91,7 @@ I am a passionate **Full Stack Developer** dedicated to building robust backends
 
   <!-- GitHub Streak -->
   <a href="https://github.com/cyberbunny/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadElsaidd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 
 </div>
@@ -101,5 +101,5 @@ I am a passionate **Full Stack Developer** dedicated to building robust backends
 <!-- FOOTER -->
 <div align="center">
   <p>💡 <em>"The best way to predict the future is to invent it."</em></p>
-  <img src="https://komarev.com/ghpvc/?username=Ziad-Dev&color=blueviolet&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ZiadElsaidd&color=blueviolet&style=flat-square" alt="Profile Views">
 </div>
