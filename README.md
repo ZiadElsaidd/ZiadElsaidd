@@ -66,7 +66,7 @@ I am a passionate **Full Stack Developer** dedicated to building robust backends
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ZiadElsaidd&theme=onedark&column=7&margin-w=15&no-bg=true" alt="Ziad Elsaid Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ZiadElsaidd&theme=onedark&column=7&margin-w=15" alt="Ziad-Dev Trophies" />
   </a>
 
   <br/><br/>
@@ -76,7 +76,7 @@ I am a passionate **Full Stack Developer** dedicated to building robust backends
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=ZiadElsaidd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ziad's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=ZiadElsaidd&show_icons=true&theme=tokyonight&hide_border=true" alt="Ziad's GitHub Stats" />
         </a>
       </td>
       <td>
