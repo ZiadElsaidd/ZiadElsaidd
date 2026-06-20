@@ -19,7 +19,7 @@
 
 <!-- ANIMATED MEDIA -->
 <p align="center">
-  <img src="Assets/output.gif" alt="Featured Project Showcase" width="100%" style="border-radius: 8px;">
+  <img src="/Folders/Assets/output.gif" alt="Featured Project Showcase" width="100%" style="border-radius: 8px;">
 </p>
 
 ---
