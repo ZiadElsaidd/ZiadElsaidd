@@ -1,14 +1,14 @@
+<div align="center">
 <picture>
- <source media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/dark.svg">
-
- <source media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/light.svg">
-
- <imgalt="Ziad Elsayed"
- src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/light.svg">
- 
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake.svg" />
+  <img
+    alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake.svg" />
 </picture>
+</div>
 
 <br><br>
 
