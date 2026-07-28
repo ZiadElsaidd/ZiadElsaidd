@@ -1,191 +1,77 @@
-<!-- ================= Banner ================= -->
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/light.svg">
-  <img alt="Ziad Elsaid" src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/light.svg">
+  <img alt="Ziad Elsayed" src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/light.svg">
 </picture>
 
----
-
-<h1 align="center">Hi 👋 I'm Ziad Elsaid</h1>
-
-<h3 align="center">
-Full Stack Developer • Software Engineer • Founder of Vertex Software Solutions
-</h3>
-
-<p align="center">
-Building modern web applications with clean UI, scalable architecture and great user experience.
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 Passionate about Full Stack Development
-- 🚀 Founder of Vertex Software Solutions
-- 🌱 Currently learning **Next.js**, **Node.js**, **TypeScript**
-- 🤖 Interested in Artificial Intelligence
-- ⚡ Love building beautiful and scalable software
-- 📍 Egypt
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,git,github,vscode,figma,postgres,prisma,mysql,npm" />
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake-dark.svg"/>
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake.svg"/>
-
-  <img
-    alt="Snake eating my contributions"
-    src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake.svg"/>
-</picture>
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="100%"
-src="https://streak-stats.demolab.com?user=ZiadElsaidd&hide_border=true&background=0A101F&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&title_color=22D3EE"/>
-
-<br>
-
-<img width="49%"
-src="https://github-readme-stats-jet-alpha.vercel.app/api?username=ZiadElsaidd&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&bg_color=0A101F"/>
-
-<img width="49%"
-src="https://github-readme-stats-jet-alpha.vercel.app/api/top-langs/?username=ZiadElsaidd&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=ZiadElsaidd&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ZiadElsaidd&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
-
-## 🚀 Current Focus
-
-- 🔹 Full Stack Development
-- 🔹 Next.js
-- 🔹 Node.js
-- 🔹 REST APIs
-- 🔹 PostgreSQL
-- 🔹 AI Integrations
-- 🔹 Vertex Software Solutions
-
----
-
-## 📌 Featured Projects
-
-⭐ Vertex Software Solutions
-
-Modern Software Development Company
-
----
-
-⭐ Portfolio Website
-
-Modern Personal Portfolio
-
----
-
-⭐ Discord Bots
-
-Advanced Automation Bots
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
-</a>
-
-<a href="https://github.com/ZiadElsaidd">
-<img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ZiadElsaidd&label=Profile%20Views&color=22D3EE&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Code with Passion • Build with Purpose ⭐
-
-</h3>
-
+<!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
+
+<!-- Streak — full width -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake.svg" />
-  <img
-    alt="Snake eating my contributions"
-    src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ZiadElsaidd&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=ZiadElsaidd&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Ziad's streak" />
 </picture>
-</div>
 
-<br><br>
-
-<div align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=ZiadElsaidd&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="https://github-readme-stats-jet-alpha.vercel.app/api?username=ZiadElsaidd&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats"/>
-<img width="49%" src="https://github-readme-stats-jet-alpha.vercel.app/api/top-langs/?username=ZiadElsaidd&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs"/>
+
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jet-alpha.vercel.app/api?username==ZiadElsaidd&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=arifhaxn&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Ziad's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jet-alpha.vercel.app/api/top-langs/?username==ZiadElsaidd&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https:/github-readme-stats-jet-alpha.vercel.app/api/top-langs/?username=ZiadElsaidd&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
+
 </div>
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/snake-light.svg" />
+</picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/projects/projects.svg" alt="Projects" />
+</div>
+
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ziadelsaid-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/Dev.Ziadd/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=61590722885130">
+  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ziadelsaid.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+</div>
+
+<!-- ===== END SOCIAL BADGES ===== -->
+
+<!-- =================================== -->
