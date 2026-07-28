@@ -5,7 +5,9 @@
  <source media="(prefers-color-scheme: light)"
  srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/light.svg">
 
- <imgalt="Ziad Elsayed"src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/light.svg">
+ <imgalt="Ziad Elsayed"
+ src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/light.svg">
+ 
 </picture>
 
 <br><br>
