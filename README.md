@@ -31,15 +31,41 @@
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 
-<div align="center">
+name: Generate Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/snake-light.svg" />
-</picture>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-</div>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light&color_snake=0891B2&color_dots=#ebedf0,#a5b4fc,#818cf8,#6366f1,#0891B2
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=10B981&color_dots=#2d3343,#4b5563,#7C3AED,#A78BFA,#22D3EE
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update snake animation [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <!-- ===== END SNAKE ===== -->
 <br/>
