@@ -8,6 +8,12 @@
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
+  <img
+    src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/output/github-snake-dark.svg"
+    alt="Snake eating my contributions"
+    width="100%" />
+</div>
+<div align="center">
 
 <!-- Streak — full width -->
 <picture>
@@ -30,43 +36,6 @@
 </div>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=0891B2&color_dots=#ebedf0,#a5b4fc,#818cf8,#6366f1,#0891B2
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=10B981&color_dots=#2d3343,#4b5563,#7C3AED,#A78BFA,#22D3EE
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "Update snake animation [skip ci]"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 <!-- ===== END SNAKE ===== -->
 <br/>
 <br/>
@@ -83,7 +52,7 @@ jobs:
   <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=61590722885130">
+<a href="https://www.facebook.com/dev.ziadd">
   <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
 </a>
 &nbsp;&nbsp;
