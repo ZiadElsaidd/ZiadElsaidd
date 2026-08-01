@@ -1,10 +1,10 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-     srcset="https://raw.githubusercontent.com/ZiadElsaiddZiadElsaidd/main/dark.svg">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/main/dark.svg"
+  alt="GitHub Banner"
+  width="100%">
 <!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
