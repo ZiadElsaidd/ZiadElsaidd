@@ -44,9 +44,6 @@
 <!-- ===== END SNAKE ===== -->
 <br/>
 <br/>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ZiadElsaidd/ZiadElsaidd/projects/projects.svg" alt="Projects" />
-</div>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
